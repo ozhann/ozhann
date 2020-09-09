@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://www.ozhanyilmaz.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ozhanyilmaz.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ozhanyilmazz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ozhan%20Yilmaz%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ozhanyilmazz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ozhan%20Yilmaz%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ozhanhimself/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ozhanhimself-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ozhanyilmaz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ozhanyilmaz@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
